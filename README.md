@@ -8,3 +8,6 @@ Created calculated columns and measures for custom data analysis.
 
 ## Business Impact: 
 Enables data-driven decision-making to enhance employee retention strategies.
+
+# Dashboard
+<https://github.com/AniketGaikwad7/HR_Analytics_Dashboard/blob/main/HR_Analytics.pdf>
